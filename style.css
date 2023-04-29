@@ -322,3 +322,12 @@ p {
 .project button:active {
   background: #008552;
 }
+
+.about_info button:active {
+  background: #008552;
+}
+
+.about_info button:hover {
+  background: #36B37F;
+  box-shadow: 0px 8px 16px rgba(54, 179, 127, 0.24)
+}
