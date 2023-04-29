@@ -313,3 +313,11 @@ p {
   padding: 12px;
   letter-spacing: 0.03em;
 }
+
+.project button:hover {
+  background: #36B37F;
+}
+
+.project button:active {
+  background: #008552;
+}
