@@ -54,7 +54,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [portfolio_microverse] <a name="Portfolio"></a>
 
-> Describe your project in 1 or 2 sentences.
 This project is just to check my basic understanding of text editor, file system, git, basic html and css knowledge so I can have a fully working portfolio website in the end.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS</a>
@@ -64,8 +63,10 @@ This project is just to check my basic understanding of text editor, file system
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 Microverse portfolio project to learn and understand the basic features of flexbox and skyrocket my programming career.
+Portfolio with menu
+Portfolio with info about me
+Portfolio with headline section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +74,6 @@ Microverse portfolio project to learn and understand the basic features of flexb
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 Will be updated in a while
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -82,7 +82,6 @@ Will be updated in a while
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -111,7 +110,6 @@ You can run this project normally by opening the index.html file or using the li
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 👤 Roshan Singh
 
 - GitHub: [@githubhandle](https://github.com/roshanasingh4)
@@ -120,7 +118,6 @@ You can run this project normally by opening the index.html file or using the li
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-> Describe 1 - 3 features you will add to the project.
 1. Will add responsivness and further breakpoints
 1. Make the desktop version more better aesthetically
 
@@ -142,12 +139,10 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 If you like this project leave a star to the repository
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 - What tech stack have you used to build the project
 
   - VANILLA HTML and CSS
