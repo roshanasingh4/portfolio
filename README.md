@@ -118,6 +118,8 @@ You can run this project normally by opening the index.html file or using the li
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
 1. Will add responsivness and further breakpoints
 1. Make the desktop version more better aesthetically
 
