@@ -107,8 +107,8 @@ p {
 }
 
 .section_works {
-  display: grid;
-  grid-template-rows: 200px 474px 474px 474px 474px 474px 474px;
+  /* display: grid; */
+  /* grid-template-rows: 200px 474px 474px 474px 474px 474px 474px; */
   justify-content: center;
   gap: 24px;
   align-items: center;
@@ -264,8 +264,8 @@ p {
 
 .technology_list {
   list-style: none;
-  display: grid;
-  grid-template-rows: 316px 316px 316px;
+  /* display: grid; */
+  /* grid-template-rows: 316px 316px 316px; */
   width: 327px;
   gap: 44px;
   justify-content: center;
