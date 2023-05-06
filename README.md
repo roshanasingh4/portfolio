@@ -110,11 +110,17 @@ You can run this project normally by opening the index.html file or using the li
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 Roshan Singh
+👤 **Roshan Singh**
 
 - GitHub: [@githubhandle](https://github.com/roshanasingh4)
 - Twitter: [@twitterhandle](https://twitter.com/RoshanS52831344)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/roshan-singh-9329ba1b6)
+
+👤 **Rodrigo Penayo**
+
+- GitHub: [@rodrigopenayo98](https://github.com/rodrigopenayo98)
+- Twitter: [@rodrigopenayo98](https://twitter.com/rodrigopenayo98)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rodrigo-penayo-391226158/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +141,14 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+I would like to thank my peers and my Collaborators for their encouragment and support.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
