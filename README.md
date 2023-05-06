@@ -34,7 +34,6 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -70,13 +69,6 @@ Portfolio with headline section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Will be updated in a while
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -110,11 +102,17 @@ You can run this project normally by opening the index.html file or using the li
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 Roshan Singh
+👤 **Roshan Singh**
 
 - GitHub: [@githubhandle](https://github.com/roshanasingh4)
 - Twitter: [@twitterhandle](https://twitter.com/RoshanS52831344)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/roshan-singh-9329ba1b6)
+
+👤 **Rodrigo Penayo**
+
+- GitHub: [@rodrigopenayo98](https://github.com/rodrigopenayo98)
+- Twitter: [@rodrigopenayo98](https://twitter.com/rodrigopenayo98)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rodrigo-penayo-391226158/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +133,14 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to appreciate [Microverse](https://microverse.org/) for providing the resource and the platform for us to be a professional full-stack developer.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
@@ -156,7 +161,5 @@ If you like this project leave a star to the repository
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
