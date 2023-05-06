@@ -70,13 +70,6 @@ Portfolio with headline section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Will be updated in a while
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -145,8 +138,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-I would like to thank my peers and my Collaborators for their encouragment and support.
+
+I would like to appreciate [Microverse](https://microverse.org/) for providing the resource and the platform for us to be a professional full-stack developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
